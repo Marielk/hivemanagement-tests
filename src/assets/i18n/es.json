@@ -1,0 +1,20 @@
+{
+  "auth":{
+    "title": "Ingrese sus credenciales",
+    "client": "cliente",
+    "user": "usuario",
+    "password": "contraseña",
+    "chooseLanguage": "Seleccione idioma",
+    "spanish": "Español",
+    "english": "Inglés",
+    "portuguese": "Portugués",
+    "singButton": "Ingresar",
+    "errorMsg": "Porfavor verifique los datos para iniciar sesión"
+  },
+  "logout":{
+    "userIsDeleted": "Este usuario ya no tiene permiso para usar el sistema, vas a ser redirigido al inicio de sesión"
+  },
+  "updates":{
+    "newRelease": "Existe una actualización de sistema disponible, Presione ok para recargar la aplicación ahora (nueva version " 
+  }
+}

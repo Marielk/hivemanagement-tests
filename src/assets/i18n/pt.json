@@ -1,0 +1,21 @@
+{
+  "auth":{
+    "title": "Digite suas credenciais",
+    "client": "cliente",
+    "user": "utilizador",
+    "password": "senha",
+    "chooseLanguage": "Escolha seu idioma",
+    "spanish": "Espanhol",
+    "english": "Inglês",
+    "portuguese": "Português",
+    "singButton": "Entrar",
+    "errorMsg": "Por favor, verifique os dados para o login"
+  },
+  "logout":{
+    "userIsDeleted": 
+    "Este usuário não tem mais permissão para usar o sistema, você será redirecionado para o login"
+  },
+  "updates":{
+    "newRelease": "Há uma atualização do sistema disponível, pressione ok para recarregar o aplicativo agora (nova versão "
+  }
+}
